@@ -1,5 +1,6 @@
 # *Hi, I'm Jesús* 
 ### *I'm a 19 years old programmer from **Venezuela***.
+### My [LinkedIn](https://www.linkedin.com/in/jesus-quintero-rivas/)
 
 ---
 
