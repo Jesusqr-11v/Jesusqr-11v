@@ -1,42 +1,28 @@
-# *Hi, I'm Jesús* 
-### *I'm a 19 years old programmer from **Venezuela***.
-### My [LinkedIn](https://www.linkedin.com/in/jesus-quintero-rivas/)
+_<h1 align="center">Hi, I'm Jesús.</h1>_
 
----
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&letterSpacing=&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer...;Frontend+Developer;Backend+Developer;React+Native+Developer)](https://git.io/typing-svg)
 
-## 📚Technologies i'm currently learning:
+<br>
 
-![TailwindCss](./img/tailwind.png "Bootstrap is easier :(")
-![PHP](./img/php.png "I hate you PHP")
+![GitHub followers](https://img.shields.io/github/followers/Jesusqr-11v?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Jesusqr-11v)
 
----
+## 🧑🏻 About Me
 
-| # | keyboard shortcuts ascii | characters |
-| - | ------------------------ | ---------- |
-| 1 | Alt + 96                 | `          |
-| 2 | Alt + 126                | ~          |
-| 4 | Alt + 92                 | \          |
-| 3 | Alt + 94                 | ^          |
+- 🎓 **T.S.U EN INFORMÁTICA**
+- 💻 Frontend Developer
+- 🖥️ Backend Developer
+- 📲 React Native Developer
 
-## code
+<!-- ## 🚀 Projects -->
 
-~~~HTML
-<h1>ヘスス</h1>
-~~~
+## 🤹🏼 Skills
 
-~~~JavaScript
-console.log("ヘスス");
-~~~
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,astro,sass,bootstrap,tailwind,nodejs,expressjs,mongodb,mysql,git)](https://skillicons.dev)
 
-~~~Python
-print("ヘスス")
-~~~
+## ⚙️ GitHub Analytics
 
-~~~PHP
-<?php echo "ヘスス"?>
-~~~
-
-
-
-
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jesusqr-11v&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jesusqr-11v&layout=compact&langs_count=8&theme=algolia"/>
+</div>
