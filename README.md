@@ -18,7 +18,7 @@ _<h1 align="center">Hi, I'm Jesús.</h1>_
 
 ## 🤹🏼 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,astro,sass,bootstrap,tailwind,nodejs,expressjs,mongodb,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,astro,sass,bootstrap,tailwind,nodejs,expressjs,prisma,git,github)](https://skillicons.dev)
 
 ## ⚙️ GitHub Analytics
 
